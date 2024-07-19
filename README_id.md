@@ -8,7 +8,7 @@ Isinya bisa berupa file 3D model, sound, dan lain-lain.
 
 ## Download di Mana
 
-Download project-project ini pada halaman "Releases" dari masing-masing repository.
+Download project-project ini pada halaman "Releases".
 
 ## Ide Project
 

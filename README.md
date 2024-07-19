@@ -8,7 +8,7 @@ This is a repository containing a list of game and non-game assets.
 
 ## Where to Download
 
-Download these projects on the "Releases" page of each repository.
+Download these projects on the "Releases" page.
 
 ## Project Ideas
 
